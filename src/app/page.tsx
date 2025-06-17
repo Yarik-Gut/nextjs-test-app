@@ -23,6 +23,7 @@ export default function Home() {
     <div>
       <h1 style={{ textAlign: "center" }}>Привіт, Next.js працює!</h1>
       <p>Зараз {new Date().toLocaleString()}</p>
+      <p>Тест CI/CD</p>
     </div>
 
 
